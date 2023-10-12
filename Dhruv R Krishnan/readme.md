@@ -1,4 +1,6 @@
-Hello everyone welcone to this demo..
+# Hacktober Fest Demo
+Name:- Dhruv R Krishnan
 
-Todays agenda is to understand the basics of git and github along with hacktoberfest demo
+Branch:- AIE
 
+Catchphrase:- Yo!
